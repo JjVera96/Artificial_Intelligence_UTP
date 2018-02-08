@@ -1,5 +1,6 @@
-# Artificial_Intelligence_UTP
-==========
+# Artificial Intelligence UTP
+--------------------
+
 
 These are small projects worked in the subject of Artificial Intelligence at UTP.
 Subject dictated by teacher Angel Augusto Agudelo.
